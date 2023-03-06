@@ -12,13 +12,13 @@ manifold learning method (.txt file). Here the files were obtained thorough
 UDLF - Unsupervised Distance Learning Framework. In this example, it is used Oxford
 Flowers17 dataset classes, ResNet 152 features, and LHRR ranking files. 
 
-**Research article related**
+**Research article**
 
 The results are presented and compared in the paper entitled *"Feature Augmentation based 
 on Manifold Ranking and LSTM for Image Classification"* published in 
 *Expert System With Applications* journal, by academic publishing company *Elsevier*.
 
-**DOI** 
+**DOI:**
 https://doi.org/10.1016/j.eswa.2022.118995
 
 **Abstract**
@@ -45,7 +45,6 @@ Oxford Flowers 17 dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/inde
 
 LHRR manifold learning paper: https://ieeexplore.ieee.org/document/8733193
 
-Key-words: Image Classification, Feature Augmentation, LSTM, Manifold Learning, Ranking
 
 **Acknowledgments**
 
@@ -68,3 +67,7 @@ https://bv.fapesp.br/en/bolsas/194260/support-for-computational-environments-and
 grant #2017/25908-6
 
 https://bv.fapesp.br/en/auxilios/102700/weakly-supervised-learning-for-compressed-video-analysis-on-retrieval-and-classification-tasks-for-v/
+
+**Key-words:**
+
+Image Classification, Feature Augmentation, LSTM, Manifold Learning, Ranking
