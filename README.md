@@ -1,6 +1,6 @@
 # Feature Augmentation based on Manifold Ranking and LSTM for Image Classification
 
-# Authors: Vanessa Helena Pereira-Ferrero, Lucas Pascotti Valem, Daniel Carlos Guimaraes Pedronette
+Authors: Vanessa Helena Pereira-Ferrero, Lucas Pascotti Valem, Daniel Carlos Guimaraes Pedronette
 
 This code is based on an LSTM network implementation using Python and Keras,
 which initially used the MNIST dataset. For this framework purposes, it is necessary 
