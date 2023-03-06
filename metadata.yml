@@ -1,0 +1,45 @@
+metadata_version: 1
+name: Feature Augmentation based on Manifold Ranking and LSTM for Image Classification
+description: "This code is based on an LSTM network implementation using Python and
+  Keras, \nwhich initially used the MNIST dataset. For this framework purposes, it
+  is necessary a file with the dataset classes (.txt file), the previous extraction
+  of datasets features \n(.npy file), and ranked lists using LHRR (Log-based Hypergraph
+  of Ranking References)\nmanifold learning method (.txt file). Here the files were
+  obtained thorough \nUDLF - Unsupervised Distance Learning Framework. In this example,
+  it is used Oxford \nFlowers17 dataset classes, ResNet 152 features, and LHRR ranking
+  files. The results are presented and compared in the paper entitled \"Feature Augmentation
+  based on Manifold Ranking and LSTM for Image Classification\" accepted for publication
+  in \"Expert System With Applications\" journal, by academic publishing company Elsevier.\nImage
+  classification is a critical topic due to its wide application and associated challenges.
+  Despite the considerable progress made last decades, there is still a demand for\ncontext-aware
+  image representation approaches capable of taking into the dataset\nmanifold for
+  improving classification accuracy. In this work, a representation learning\napproach
+  is proposed, based on a novel feature augmentation strategy. The proposed\nmethod
+  aims to exploit available contextual similarity information through rank-based\nmanifold
+  learning is used to define and assign weights to samples used in\naugmentation.
+  The approach is validated using CNN-based features and LSTM models\nto achieve even
+  higher accuracy results on image classification tasks. Experimental\nresults show
+  that the feature augmentation strategy can indeed improve the accuracy\nof results
+  on widely used image datasets.\n\nResources and repositories: \n    LSTM for MNIST:
+  https://github.com/ar-ms/lstm-mnist\n    UDLF framework: https://github.com/UDLF/UDLF\n
+  \   Oxford Flowers 17 dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html\n
+  \   LHRR manifold learning paper: https://ieeexplore.ieee.org/document/8733193"
+tags:
+- Image Classification
+- Feature Augmentation
+- LSTM
+- Manifold Learning
+- Ranking
+authors:
+- name: Vanessa Helena Pereira-Ferrero
+  affiliations:
+  - name: São Paulo State University - UNESP
+- name: Lucas Pascotti Valem
+  affiliations:
+  - name: São Paulo State University - UNESP
+- name: Daniel Carlos Guimaraes Pedronette
+  affiliations:
+  - name: São Paulo State University - UNESP
+corresponding_contributor:
+  name: Vanessa Ferrero
+  email: vanessa.ferrero@unesp.br
