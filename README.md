@@ -23,11 +23,11 @@ to achieve even higher accuracy results on image classification tasks. Experimen
 results show that the feature augmentation strategy can indeed improve the accuracy
 of results on widely used image datasets.
 
-Resources and repositories:
-LSTM for MNIST: https://github.com/ar-ms/lstm-mnist
-UDLF framework: https://github.com/UDLF/UDLF
-Oxford Flowers 17 dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html
-LHRR manifold learning paper: https://ieeexplore.ieee.org/document/8733193
+#Resources and repositories:
+#LSTM for MNIST: https://github.com/ar-ms/lstm-mnist
+#UDLF framework: https://github.com/UDLF/UDLF
+#Oxford Flowers 17 dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html
+#LHRR manifold learning paper: https://ieeexplore.ieee.org/document/8733193
 
 Image Classification
 
