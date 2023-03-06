@@ -43,3 +43,5 @@ Key-words: Image Classification, Feature Augmentation, LSTM, Manifold Learning, 
 #Acknowledgments
 
 The authors are grateful to São Paulo Research Foundation - FAPESP, Brazil (grants #2020/02183-9, #2018/15597-6, #2020/11366-0 and #2017/25908-6), Brazilian National Council for Scientific and Technological Development- CNPq (grants #309439/2020-5, and #422667/2021-8) and Microsoft Research .
+
+https://rb.gy/g3nepm
